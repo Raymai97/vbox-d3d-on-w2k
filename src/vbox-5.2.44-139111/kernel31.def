@@ -1,0 +1,6 @@
+LIBRARY  KERNEL31
+EXPORTS
+  K31_AddVectoredExceptionHandler
+  K31_CheckRemoteDebuggerPresent
+  K31_GetModuleHandleExA
+  K31_RemoveVectoredExceptionHandler
