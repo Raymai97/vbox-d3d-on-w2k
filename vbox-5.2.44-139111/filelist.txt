@@ -1,0 +1,6 @@
+/windows/system32/d3d8.dll
+/windows/system32/d3d9.dll
+/windows/system32/VBoxD3D8.dll
+/windows/system32/VBoxD3D9.dll
+/windows/system32/VBoxOGL.dll
+/windows/system32/wined3d.dll
